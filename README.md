@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/logo.png" alt="Breaking a Password Using Genetic Algorithm Logo" width="160"/>
+  <img src="Desktop/AI%20course/AI-Project1/screenshots/logo.png" alt="Breaking a Password Using Genetic Algorithm Logo" width="160"/>
 </p>
 
 # Breaking a Password Using Genetic Algorithm
