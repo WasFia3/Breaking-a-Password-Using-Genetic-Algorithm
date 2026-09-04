@@ -23,19 +23,19 @@ Given a randomly generated 32-bit binary passcode, the genetic algorithm attempt
 
 **Splash Screen**
 
-![Splash Screen](screenshots/splash-screen.png)
+![Splash Screen](Desktop/AI%20course/AI-Project1/screenshots/splash-screen.png)
 
 **Simulation Window (Before Running)**
 
-![App Empty](screenshots/app-empty.png)
+![App Empty](Desktop/AI%20course/AI-Project1/screenshots/app-empty.png)
 
 **Algorithm Running — Fitness Convergence**
 
-![App Running](screenshots/app-running.png)
+![App Running](Desktop/AI%20course/AI-Project1/screenshots/app-running.png)
 
 **Success Report**
 
-![Success Report](screenshots/success-report.png)
+![Success Report](Desktop/AI%20course/AI-Project1/screenshots/success-report.png)
 
 ## ✨ Features
 
@@ -203,44 +203,10 @@ Check `convergence_data.csv` and `report.pdf` for detailed analysis.
 - **Testing** - JUnit 5 (Jupiter)
 - **IDE Compatible** - IntelliJ IDEA, Eclipse, VS Code
 
-## 📝 Project Details
-
-- **Course** - COMP338: Artificial Intelligence (Fall 2025)
-- **Type** - Educational AI Project
-- **Difficulty** - Intermediate
-
-## 🎨 UI Features
-
-- Terminal-inspired aesthetic with green-on-black theme
-- Smooth button animations and glow effects
-- Real-time statistics display
-- Background imagery
-- Responsive layout
-
 ## 📚 Additional Resources
 
 - See `report.pdf` for detailed implementation notes
 - Check `convergence_data.csv` for algorithm performance data
 - Review source code comments for implementation details
 
-## 🔮 Future Enhancements
 
-Potential improvements:
-- Multi-threaded execution for faster evolution
-- Variable passcode length
-- Different selection strategies (roulette wheel, rank)
-- Elitism to preserve best solutions
-- Visualization of population fitness distribution
-- Export results to various formats
-
-## ⚖️ License
-
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-
-**WasFia3** - [GitHub Profile](https://github.com/WasFia3)
-
----
-
-Built with ❤️ and a passion for AI • *Made with JavaFX and Genetic Algorithms*
