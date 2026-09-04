@@ -1,4 +1,8 @@
-# 🧬 Breaking a Password Using Genetic Algorithm
+<p align="center">
+  <img src="screenshots/logo.png" alt="Breaking a Password Using Genetic Algorithm Logo" width="160"/>
+</p>
+
+# Breaking a Password Using Genetic Algorithm
 
 A Java application that uses **Genetic Algorithm** to evolve and find a randomly generated 32-bit binary passcode. This is an educational AI project demonstrating core concepts of evolutionary algorithms through an interactive JavaFX GUI.
 
@@ -15,9 +19,27 @@ Given a randomly generated 32-bit binary passcode, the genetic algorithm attempt
 - Creating offspring through crossover and mutation
 - Repeating until the target is found
 
+## 🎬 Screenshots
+
+**Splash Screen**
+
+![Splash Screen](screenshots/splash-screen.png)
+
+**Simulation Window (Before Running)**
+
+![App Empty](screenshots/app-empty.png)
+
+**Algorithm Running — Fitness Convergence**
+
+![App Running](screenshots/app-running.png)
+
+**Success Report**
+
+![Success Report](screenshots/success-report.png)
+
 ## ✨ Features
 
-- **Interactive GUI** - Built with JavaFX (I LOVE JAVAFX FOR SOME REASON) with a sleek terminal-inspired design
+- **Interactive GUI** - Built with JavaFX with a sleek terminal-inspired design
 - **Real-time Visualization** - Watch the algorithm evolve across generations
 - **Configurable Parameters** - Adjust population size and mutation rate
 - **Performance Statistics** - Track convergence data and best fitness scores
@@ -181,6 +203,12 @@ Check `convergence_data.csv` and `report.pdf` for detailed analysis.
 - **Testing** - JUnit 5 (Jupiter)
 - **IDE Compatible** - IntelliJ IDEA, Eclipse, VS Code
 
+## 📝 Project Details
+
+- **Course** - COMP338: Artificial Intelligence (Fall 2025)
+- **Type** - Educational AI Project
+- **Difficulty** - Intermediate
+
 ## 🎨 UI Features
 
 - Terminal-inspired aesthetic with green-on-black theme
@@ -191,8 +219,28 @@ Check `convergence_data.csv` and `report.pdf` for detailed analysis.
 
 ## 📚 Additional Resources
 
-- Watch this video, it helped me understand the algorithm concept :3 (https://www.youtube.com/watch?v=-kpcAa-qKwY&t=47s)
 - See `report.pdf` for detailed implementation notes
 - Check `convergence_data.csv` for algorithm performance data
+- Review source code comments for implementation details
+
+## 🔮 Future Enhancements
+
+Potential improvements:
+- Multi-threaded execution for faster evolution
+- Variable passcode length
+- Different selection strategies (roulette wheel, rank)
+- Elitism to preserve best solutions
+- Visualization of population fitness distribution
+- Export results to various formats
+
+## ⚖️ License
+
+This project is open source and available under the MIT License.
+
+## 👨‍💻 Author
+
+**WasFia3** - [GitHub Profile](https://github.com/WasFia3)
 
 ---
+
+Built with ❤️ and a passion for AI • *Made with JavaFX and Genetic Algorithms*
