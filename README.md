@@ -6,6 +6,10 @@
 
 A Java application that uses **Genetic Algorithm** to evolve and find a randomly generated 32-bit binary passcode. This is an educational AI project demonstrating core concepts of evolutionary algorithms through an interactive JavaFX GUI.
 
+> [!WARNING]
+> **JavaFX Requirement Warning:**
+> This project is built using **JavaFX (SDK Version 22 / 24)**. Because JavaFX is no longer bundled with the standard JDK, you **must have JavaFX installed** on your machine and properly configured in your IDE (or via Maven/VM Arguments) to compile and run the application successfully.
+> 
 ## 📋 Project Overview
 
 This project implements a **Genetic Algorithm** that simulates the process of evolution to solve the problem of breaking a randomly generated password. Instead of brute-forcing all possible combinations, the algorithm evolves a population of candidate solutions over multiple generations, using selection, crossover, and mutation operations to progressively improve fitness.
@@ -200,13 +204,11 @@ Check `convergence_data.csv` and `report.pdf` for detailed analysis.
 - **Language** - Java 22
 - **GUI Framework** - JavaFX 22
 - **Build Tool** - Maven 3.11.0
-- **Testing** - JUnit 5 (Jupiter)
 - **IDE Compatible** - IntelliJ IDEA, Eclipse, VS Code
 
 ## 📚 Additional Resources
-
+- Check this YouTube video to understand the concept before implementing (https://www.youtube.com/watch?v=-kpcAa-qKwY&t=51s)
 - See `report.pdf` for detailed implementation notes
 - Check `convergence_data.csv` for algorithm performance data
-- Review source code comments for implementation details
 
 
