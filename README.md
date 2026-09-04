@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="Desktop/AI%20course/AI-Project1/screenshots/logo.png" alt="Breaking a Password Using Genetic Algorithm Logo" width="160"/>
+  <img src="Desktop/AI course/AI-Project1/screenshots/logo.png" alt="Breaking a Password Using Genetic Algorithm Logo" width="160">
 </p>
-
 # Breaking a Password Using Genetic Algorithm
 
 A Java application that uses **Genetic Algorithm** to evolve and find a randomly generated 32-bit binary passcode. This is an educational AI project demonstrating core concepts of evolutionary algorithms through an interactive JavaFX GUI.
